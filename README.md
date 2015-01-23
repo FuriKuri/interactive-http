@@ -1,2 +1,2 @@
-# quick-rest
+# interactive-http
 Lightweight rest server
